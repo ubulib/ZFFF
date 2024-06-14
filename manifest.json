@@ -1,0 +1,21 @@
+{
+  "name": "ZambiaFlavorFix Foods",
+  "short_name": "ZFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#a54827",
+  "theme_color": "#a54827",
+  "description": "Embark on a culinary journey with ZambiaFlavorFix Foods",
+  "icons": [
+    {
+      "src": "https://drive.google.com/thumbnail?id=1aJwNP6dEMDaK-Sbxb2uynKTMexauhY4v",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/thumbnail?id=1ccpObmVWwi7o7nKMc4kmQJtAVxbrsvbt",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
